@@ -1,7 +1,7 @@
 # Sales-Analyisis-with-Excel
 
 ## Dashboard
-
+![Dashboard Preview](https://github.com/saurav190101/Sales-Analyisis-with-Excel/blob/main/Screenshot%202025-08-20%20111841.png) 
 
 ## Objective
 
